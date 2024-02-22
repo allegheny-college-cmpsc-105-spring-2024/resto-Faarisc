@@ -2,6 +2,9 @@
 
 Welcome to Fusion Flavors, where culinary boundaries are blurred, and creativity knows no limits! We invite you on a gastronomic journey like no other, where we seamlessly blend diverse cuisines, flavors, and techniques to create a dining experience that is truly unique.
 
+![image local](./assets/images/FusionFlavorslogo.jpeg)
+
+
 ## Our Concept
 
 At Fusion Flavors, we believe that the most exciting culinary experiences happen when different traditions and ingredients come together harmoniously. Our menu is a celebration of this belief, featuring a fusion of global cuisines that showcase the richness and diversity of flavors from around the world.
