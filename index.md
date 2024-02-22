@@ -31,6 +31,6 @@ Come experience the magic of Fusion Flavors for yourself! Located in the heart o
 
 ## Reviews
 
-- *"Fusion Flavors blew me away with their bold combinations and impeccable execution. Each dish was a masterpiece of flavor fusion!"* - FoodieFanatic123
+- "*Fusion Flavors blew me away with their bold combinations and impeccable execution. Each dish was a masterpiece of flavor fusion!*" - FoodieFanatic123
 
-- *"I never knew that fusion cuisine could be this delicious! Fusion Flavors has definitely earned a spot on my list of favorite restaurants."* - TasteExplorer99
+- "*I never knew that fusion cuisine could be this delicious! Fusion Flavors has definitely earned a spot on my list of favorite restaurants.*" - TasteExplorer99
