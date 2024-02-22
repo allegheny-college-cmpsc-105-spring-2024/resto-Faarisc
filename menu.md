@@ -1,21 +1,18 @@
 ---
 layout: page
-title: amazing menu
+title: Amazing Menu
 permalink: /menu
 nav: true
 ---
 
-## menu
+## Menu
 
-this is the menu
+Welcome to our amazing menu! Take a look at our mouthwatering offerings below:
 
-- TODO: add at least 1 menu item. Be as descriptive as possible to get a good review!
-- TODO: make sure the menu item has at least one image
+### Signature Dish: Fusion Tacos
 
-### menu item 1
+Experience a culinary fusion like no other with our signature Fusion Tacos. Succulent tempura shrimp, creamy avocado, and zesty wasabi mayo, all nestled in a warm tortilla. A taste sensation you won't soon forget!
 
-#### lettuce
+- Price: $12.99
 
-- price: $100
-
-![lettuce](assets/images/magnifying-glass-logo.jpeg){:width="200"}
+![Fusion Tacos](assets/images/fusion_tacos.jpg){:width="300"}
