@@ -15,4 +15,4 @@ Experience a culinary fusion like no other with our signature Fusion Tacos. Succ
 
 - Price: $12.99
 
-![Fusion Tacos](assets/images/fusion_tacos.jpg){:width="300"}
+![Fusion Tacos](assets/images/Fusion_Tacos.jpg)
