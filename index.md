@@ -1,4 +1,3 @@
-<div style="background-color: #f0f0f0; padding: 20px;">
 # Welcome to "Fusion Flavors"!
 
 Welcome to Fusion Flavors, where culinary boundaries are blurred, and creativity knows no limits! We invite you on a gastronomic journey like no other, where we seamlessly blend diverse cuisines, flavors, and techniques to create a dining experience that is truly unique.
