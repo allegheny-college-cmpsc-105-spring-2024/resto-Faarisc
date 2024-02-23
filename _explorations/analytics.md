@@ -5,9 +5,27 @@ permalink: explorations/analytics
 nav: true
 ---
 
-TODO: Look at your analytics data. Write about the
-different sources of data contributing to the analytics automatic dashboards.
-If you were a real restaurant owner, explain how this information could help
-you improve your business and why you came to your conclusions.
+#### Analytics Review
 
-TODO: include at least one analytics plot to back up your claims.
+Google analytics is a great website and tool that many business owners can use
+to assess their business. In my case the google analytic data can be used to make
+informed decisions. 
+
+This means that it can be used for Menu optimization, we can see how long users spend
+on each page of the website. This would identify the top-selling dishes and help in 
+understanding customer preferences. Restaurant owners can use this to optimize their
+menu offerings to maximize profitability and customer satisfaction
+
+In addition to this we can use the data from google analytics for inventroy management.
+Utilizing analytics to track inventory usage can help restaurant owners minimize
+food waste and control costs. By identifying trends in ingredient consumption and
+forecasting demand, they can streamline inventory ordering processes and avoid 
+overstocking perishable items. 
+
+
+#### Example of a google analytics plot:
+
+
+
+
+
