@@ -12,4 +12,4 @@ In the menu we can see vivid imagery that helps to illustrate the options at the
 
 In conclusion, I believe that "iScream" succeeds in piquing interest and inviting visitors to explore its culinary offerings with its visually appealing layout, it is calling your name to visit!
 
-Link 
+- Link to website: [Link text](https://allegheny-college-cmpsc-105-spring-2024.github.io/resto-AOtbliesk/menu)
