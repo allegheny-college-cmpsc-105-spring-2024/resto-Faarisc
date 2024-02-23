@@ -16,7 +16,6 @@ One of the standout features of the site is its clean and organized design, whic
 
 Furthermore, the website provides essential information regarding the Bakery and gives us a little insight into what the bakery is, why it was created, and a part to meet the master baker! This is great as it makes the users gain a deeper understanding of "Take it or leave it". In addition to this we can also see that there are reviews that have been written which gives users an insight into the Bakery.
 
-Overall, the website for "Resto" by Elizabeth Teufel serves as an excellent digital ambassador for the restaurant, offering a tantalizing preview of the delights that await visitors. With its user-friendly interface, enticing visuals, and comprehensive menu, it successfully whets the appetite and leaves a lasting impression. Whether you're a seasoned foodie or simply seeking a memorable dining experience, this site is sure to inspire culinary exploration and anticipation.
-
+Overall, the website for "Resto" by Elizabeth Teufel serves as an excellent digital ambassador for the restaurant, offering a tantalizing preview of the delights that await visitors. With its user-friendly interface, enticing visuals, and comprehensive menu, it successfully leaves a lasting impression.
 
 - Link to website: [Link text](https://allegheny-college-cmpsc-105-spring-2024.github.io/resto-Elizabeth-Teufel/menu)
