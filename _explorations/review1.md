@@ -18,4 +18,4 @@ Furthermore, the website provides essential information regarding the Bakery and
 
 Overall, the website for "Resto" by Elizabeth Teufel serves as an excellent digital ambassador for the restaurant, offering a tantalizing preview of the delights that await visitors. With its user-friendly interface, enticing visuals, and comprehensive menu, it successfully leaves a lasting impression.
 
-- Link to website: [Link text](https://allegheny-college-cmpsc-105-spring-2024.github.io/resto-Elizabeth-Teufel/menu)
+#### Link to website: [Link text](https://allegheny-college-cmpsc-105-spring-2024.github.io/resto-Elizabeth-Teufel/menu)
