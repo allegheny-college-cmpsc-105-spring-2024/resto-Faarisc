@@ -73,7 +73,7 @@ realistic, but keep in mind that this website is viewable online.
 After Monday the 19th, look for `assigned review` document in Discord.
 There you will find the websites that you need to review. Look at the sites and pretend
 that you have eaten at that restaurant. In the `_explorations/review1.md` follow the
-instructions and write your first review. In the `_explorations/review2.md` follow the TODOs
+instructions and write your first review. In the `_explorations/review2.md` follow the instructions
 and write your second review.
 
 - : submit your changes to GitHub
