@@ -22,6 +22,12 @@ food waste and control costs. By identifying trends in ingredient consumption an
 forecasting demand, they can streamline inventory ordering processes and avoid 
 overstocking perishable items. 
 
+Lastly, using google anaytics gives us an insight into how the companys customers work,
+and what their preferences are. We can analyse customer data, such as: demographics, 
+ordering habits, and feedback, can provide valuable insights into customer preferences and
+behavior. By understanding their target audience better, restaurant owners can tailor
+marketing strategies, menu offerings, and dining experiences to meet the needs and
+expectations of their customers. 
 
 #### Example of a google analytics plot:
 
