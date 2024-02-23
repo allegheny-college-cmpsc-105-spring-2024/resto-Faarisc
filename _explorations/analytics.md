@@ -5,7 +5,7 @@ permalink: explorations/analytics
 nav: true
 ---
 
-#### Analytics Review
+#### Google Analytics Review
 
 Google analytics is a great website and tool that many business owners can use
 to assess their business. In my case the google analytic data can be used to make
@@ -25,6 +25,7 @@ overstocking perishable items.
 
 #### Example of a google analytics plot:
 
+![image local](./assets/images/googleanalyticsplot.png)
 
 
 
